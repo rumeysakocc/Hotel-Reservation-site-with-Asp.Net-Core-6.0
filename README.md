@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------------------------
 ✓ Project Details: 
-The project consists of a hotel project and an admin panel. All data on the site is dynamically pulled from the database. 
+The project consists of a hotel web and an admin panel. All data on the site is dynamically pulled from the database. 
 At the same time, it is possible to change the data on the site with the admin panel.  
 --------------------------------------------------------------------------------------------------
 ✓ Project Features: 
