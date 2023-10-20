@@ -6,6 +6,8 @@ The project consists of a hotel project and an admin panel. All data on the site
 At the same time, it is possible to change the data on the site with the admin panel.  
 --------------------------------------------------------------------------------------------------
 ✓ Project Features: 
+
+
 Microsoft SQL Server is used as database.
 
 
