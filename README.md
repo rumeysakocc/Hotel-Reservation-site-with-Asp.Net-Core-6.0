@@ -28,6 +28,8 @@ Care has been taken to write in accordance with Clean Code Principles.
 
 
 The project was developed in Microsoft Visual Studio Integrated development environment
+
+
 --------------------------------------------------------------------------------------------------
 ✓ Usage: 
 You can use the model for yourself or experiment for further improvements.
