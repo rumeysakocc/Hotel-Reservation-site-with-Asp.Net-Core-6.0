@@ -6,14 +6,14 @@ The project consists of a hotel project and an admin panel. All data on the site
 At the same time, it is possible to change the data on the site with the admin panel.  
 --------------------------------------------------------------------------------------------------
 ✓ Project Features: 
-->Microsoft SQL Server is used as database.
-->Entity framework was used as ORM tool.
-->N-tier Architecture was used.
-->The ready model for frontend is integrated into the project.(APIye Giris/Frontend/HotelProject.WebUI/wwwroot/hotel-html-template,adminTheme.zip)
-->RapidApi and JSON Web Token applications were implemented in the project.
-->Autorise, mapping, routing and many other techniques were used.
-->Care has been taken to write in accordance with Clean Code Principles.
-->The project was developed in Microsoft Visual Studio Integrated development environment
+Microsoft SQL Server is used as database.
+Entity framework was used as ORM tool.
+N-tier Architecture was used.
+The ready model for frontend is integrated into the project.(APIye Giris/Frontend/HotelProject.WebUI/wwwroot/hotel-html-template,adminTheme.zip)
+RapidApi and JSON Web Token applications were implemented in the project.
+Autorise, mapping, routing and many other techniques were used.
+Care has been taken to write in accordance with Clean Code Principles.
+The project was developed in Microsoft Visual Studio Integrated development environment
 --------------------------------------------------------------------------------------------------
 ✓ Usage: 
 You can use the model for yourself or experiment for further improvements.
