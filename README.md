@@ -23,7 +23,7 @@ The ready model for frontend is integrated into the project.(APIye Giris/Fronten
 RapidApi and JSON Web Token applications were implemented in the project.
 
 
-Autorise, mapping, routing and many other techniques were used.
+Autorize, allowAnonymous, mapping, routing, fluent Validation and many other techniques were used.
 
 
 Care has been taken to write in accordance with Clean Code Principles.
