@@ -7,8 +7,14 @@ At the same time, it is possible to change the data on the site with the admin p
 --------------------------------------------------------------------------------------------------
 ✓ Project Features: 
 Microsoft SQL Server is used as database.
+
+
 Entity framework was used as ORM tool.
+
+
 N-tier Architecture was used.
+
+
 The ready model for frontend is integrated into the project.(APIye Giris/Frontend/HotelProject.WebUI/wwwroot/hotel-html-template,adminTheme.zip)
 RapidApi and JSON Web Token applications were implemented in the project.
 Autorise, mapping, routing and many other techniques were used.
