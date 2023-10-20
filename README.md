@@ -16,9 +16,17 @@ N-tier Architecture was used.
 
 
 The ready model for frontend is integrated into the project.(APIye Giris/Frontend/HotelProject.WebUI/wwwroot/hotel-html-template,adminTheme.zip)
+
+
 RapidApi and JSON Web Token applications were implemented in the project.
+
+
 Autorise, mapping, routing and many other techniques were used.
+
+
 Care has been taken to write in accordance with Clean Code Principles.
+
+
 The project was developed in Microsoft Visual Studio Integrated development environment
 --------------------------------------------------------------------------------------------------
 ✓ Usage: 
