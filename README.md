@@ -1,9 +1,13 @@
 # Hotel-Reservation-site-with-Asp.Net-Core-6.0 
 
 --------------------------------------------------------------------------------------------------
+
+
 ✓ Project Details: 
 The project consists of a hotel web and an admin panel. All data on the site is dynamically pulled from the database. 
 At the same time, it is possible to change the data on the site with the admin panel.  
+
+
 --------------------------------------------------------------------------------------------------
 ✓ Project Features: 
 
@@ -33,16 +37,32 @@ The project was developed in Microsoft Visual Studio Integrated development envi
 
 
 --------------------------------------------------------------------------------------------------
+
+
 ✓ Usage: 
 You can use the model for yourself or experiment for further improvements.
+
+
 --------------------------------------------------------------------------------------------------
+
+
 ✓ Requirements: 
 Integrated development environment compatible with Asp.net Core 6.0
+
+
 Ready model for frontend (hotel-html-template,adminTheme.zip)
+
+
 Any database and database model
+
+
 --------------------------------------------------------------------------------------------------
+
+
 ✓ Contributions: 
 Contributions and enhancements to the project are welcome. Feel free to fork and submit pull requests :)
+
+
 --------------------------------------------------------------------------------------------------
 ✓ Author:  
 Rumeysa KOÇ
